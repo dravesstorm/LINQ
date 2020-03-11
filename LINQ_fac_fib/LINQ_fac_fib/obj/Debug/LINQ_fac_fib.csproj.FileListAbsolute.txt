@@ -1,0 +1,5 @@
+D:\team international\Brisov\LINQ_fac_fib\LINQ_fac_fib\bin\Debug\LINQ_fac_fib.exe
+D:\team international\Brisov\LINQ_fac_fib\LINQ_fac_fib\bin\Debug\LINQ_fac_fib.pdb
+D:\team international\Brisov\LINQ_fac_fib\LINQ_fac_fib\obj\Debug\LINQ_fac_fib.csprojResolveAssemblyReference.cache
+D:\team international\Brisov\LINQ_fac_fib\LINQ_fac_fib\obj\Debug\LINQ_fac_fib.exe
+D:\team international\Brisov\LINQ_fac_fib\LINQ_fac_fib\obj\Debug\LINQ_fac_fib.pdb
